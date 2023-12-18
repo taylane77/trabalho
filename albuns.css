@@ -1,0 +1,77 @@
+body {
+  background-image: url('amy.show.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h2{
+	color:#ffffff;
+	margin-left:100px;
+	font-family: Cambria;
+	margin-right: 600px;
+	font-size: 20px;
+	margin-top: 37px;
+	font-family: Cambria;
+	font-size: 60px;
+}
+h3{
+	color:#ffffff;
+	margin-left: 120px;
+	font-family: Cambria;
+	font-size: 20px;
+	
+}
+.album{
+	color:#ffffff;
+	font-family: Cambria;
+	font-size: 20px;
+}
+#container{
+
+height:130px; /* determinado a altura da área do conteúdo*/
+width:650px; /*definindo a altura do elemento*/
+margin:auto; /*centralizandoo o elemento */
+margin-top:10px;/* espaço acima do elemento*/
+
+
+}
+
+#conteudo{
+
+width:500px;/*definindo a altura do elemento*/
+padding:85px;/* define uma a distância entre o conteúdo de um elemento e suas bordas. */
+padding-bottom:150px;/*distância do conteúdo e suas bordas*/
+text-align:justify; /* o  texto do conteúdo da página justificado*/
+}
+.table{
+	height: 100px;
+}
+#menu{
+	
+	margin-left: 10px;
+	margin-top: 30px;	
+
+}
+#carouselExampleFade{
+	width: 300px;
+	left: 150px;
+}
+#container1{
+display: flex;
+width: 180%;
+margin-right:400px;
+margin: 5px;
+
+}
+#container2{
+display: flex;
+width: 180%;
+margin-right:400px;
+margin: 5px;
+
+}
+.card{
+	 margin: 5px;
+}
+

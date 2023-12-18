@@ -1,0 +1,53 @@
+body {
+  background-image: url('midioramaAmy.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.titulo{
+	color:#ffffff;
+	margin-left: 20px;color: #ffffff;
+	margin-left: 20px;
+	font-family: Cambria;
+	margin-right: 650px;
+	font-size: 20px;
+	margin-top: 37px;
+	font-family: Cambria;
+	font-size: 60px;
+}
+.texto1{
+	color: #ffffff;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-family: Cambria;
+	margin-right: 650px;
+	font-size: 20px;
+}
+.btn{
+
+	margin-left: 10px;
+	margin-top: 30px;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	
+}
+.mt-0{
+	color:#ffffff;
+	font-family: Cambria;
+	margin-right: 650px;
+	margin-left: 20px;
+}
+.texto2{
+	color: #ffffff;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-family: Cambria;
+	margin-right: 650px;
+	font-size: 20px;
+}
+.img{
+	border-radius: 10px;/*  arredondar as bordas da imagem. */
+	width: 600px;
+	margin-left: 20px;
+}
+
+

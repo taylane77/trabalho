@@ -1,0 +1,51 @@
+body {
+	background-image: url('amy winehouse.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{
+	color:#ffffff;
+	font-family : Cambria;
+	margin-left: 120px;
+	margin-top: 20px;
+}
+.form-row{
+	width:900px;
+	margin-left: 200px;
+	margin-top: 40px;
+	color:#ffffff;
+}
+.form-check{
+		margin-left: 200px;
+		margin-top: 40px;
+		color:#ffffff;
+}
+.btn{
+   margin-left: 200px;
+   margin-top: 5px;
+	
+}
+
+.login.mostrarSenha {
+	display: flex; /* está servindo para o elemento de mostrar senha e
+	 todos os elemento filhos ficam um do lado do outro */
+	justify-content: space-between; /*alinhar o elemento ao longo do eixo principal */
+	font-size: 10.5px; /*tamanho da letra */ 
+	margin: -15px 15px;/* define a área de margem nos quatro lados do formulário.*/
+	float: left; /* determina que um elemento deve ser retirado do seu fluxo normal e 
+	colocado ao longo do ladoesquerdo do seu containêr,onde textos e elementos em linha irão se posicionar ao seu redor*/
+	width: 50px;  /*definindo a altura do elemento*/
+	vertical-align: middle; /* Para alinhar verticalmente a caixa de um elemento inline dentro da caixa de linha que a contém */
+}
+
+.mostrarSenha label input {
+	accent-color: white; /* cor da letra */
+	margin-right: 3px; /* define a área de margem a direita.*/
+	 /* está servindo que o elemento da página parte do ponto superior esquerdo a outros elementos.*/
+	 /* posicionando para a direita*/
+}
+
+
+
+

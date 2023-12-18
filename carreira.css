@@ -1,0 +1,70 @@
+body {
+	background-image: url('fotoAmy.png.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h2 {
+	color: #ffffff; /* cor do título */
+	margin-left: 35px;
+	font-size: 45px; /* tamanho da fonte do título*/
+	font-family: Cambria;
+	position: relative;
+	/*determina que o elemento será posicionado de acordo com o fluxo natural da página. */
+	top: 30px; /* posicionando o elemento em um coordenada */
+}
+
+.img {
+	border-radius: 10px; /*  arredondar as bordas da imagem. */
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 80px;
+}
+
+.subtitulo {
+	color: #ffffff; /* cor do título */
+	margin-left: 50px;
+	font-family: Cambria;
+	position: relative;
+	/*determina que o elemento será posicionado de acordo com o fluxo natural da página. */
+	top: 45px; /* posicionando o elemento em um coordenada */
+}
+
+.texto {
+	color: #ffffff; /* cor do título */
+	font-size: 20px;
+	font-family : Cambria;
+	position: relative;
+	/*determina que o elemento será posicionado de acordo com o fluxo natural da página. */
+	top: 100px;
+	font-family: Cambria; /* posicionando o elemento em um coordenada */
+}
+
+#container {
+	height: 130px; /* determinado a altura da área do conteúdo*/
+	width: 650px; /*definindo a altura do elemento*/
+	margin-left:20px; /*centralizandoo o elemento */
+	margin-top: 10px; /* espaço acima do elemento*/
+}
+
+#colunaCentral {
+	color: #ffffff; /* cor do texto*/
+	font-size: 30px; /* tamanho da fonte do texto*/
+	padding: 2px 10px;
+	/* define uma a distância entre o conteúdo de um elemento e suas bordas. */
+	text-align: justify; /* o  texto do conteúdo da página justificado*/
+
+}
+.btn{
+	margin-left: 10px;
+	margin-top: 30px;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	
+	
+
+
+}
+
+
+
